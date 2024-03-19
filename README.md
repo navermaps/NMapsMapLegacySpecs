@@ -5,7 +5,7 @@
 Podfile에 `source`를 추가하고, `NMapsMap-Legacy`로 변경해 주세요.
 
 ```
-source 'https://github.com/navermaps/NMapsMapLegacySpecs-.git'
+source 'https://github.com/navermaps/NMapsMapLegacySpecs.git'
 
 target 'MyProject' do
   pod 'NMapsMap-Legacy'

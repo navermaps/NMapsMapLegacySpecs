@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NMapsMap-Legacy'
-  s.version          = '3.0.0'
+  s.version          = '3.16.0'
   s.summary          = 'NAVER Map iOS SDK Legacy'
   
   s.homepage         = 'https://github.com/navermaps/NMapsMapLegacySpecs'
